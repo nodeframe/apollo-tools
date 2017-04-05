@@ -1,5 +1,5 @@
 {
-  "name": "babel-lib-boilerplate",
+  "name": "@nodeframe/graphql-tools",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,8 +10,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies":{
-    "babel-core": "^6.14.0"
+  "dependencies": {
+    "babel-core": "^6.14.0",
+    "reflect-metadata": "^0.1.10"
   },
   "devDependencies": {
     "babel-cli": "^6.14.0",
