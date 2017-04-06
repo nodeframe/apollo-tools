@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/nodeframe/apollo-tools.svg?branch=master)](https://travis-ci.org/nodeframe/apollo-tools)
 
 Features
 =======
