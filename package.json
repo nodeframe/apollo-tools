@@ -1,5 +1,5 @@
 {
-  "name": "@nodeframe/graphql-tools",
+  "name": "@nodeframe/apollo-tools",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
