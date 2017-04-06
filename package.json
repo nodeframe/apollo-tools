@@ -2,7 +2,7 @@
   "name": "@nodeframe/apollo-tools",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "libs/index.js",
   "scripts": {
     "build": "rm -rf libs/** && node_modules/.bin/babel src/ -d libs -s",
     "start": "node_modules/.bin/nodemon src/index.js --watch src --exec 'node_modules/.bin/eslint src && node_modules/.bin/babel-node'",
